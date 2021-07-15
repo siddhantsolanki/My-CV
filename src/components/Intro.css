@@ -1,7 +1,7 @@
 .intro-left-container{
     float:left;
     width: 48%;
-    height: 40em;
+    height: 103%;
     padding: 5px;
     border: solid black;
     border-width: 3px;
@@ -14,7 +14,7 @@
 .intro-right-container{
     float:right;
     width: 48%;
-    height: 40em;
+    height: 100%;
     padding: 5px;
     border: solid black;
     border-width: 3px;
