@@ -23,8 +23,8 @@ const Intro=()=>{
                             <li>Guitar</li>
                             <li>Drums</li>
                             <li>Writing</li>
-                            <li>Processors and Micro-Controllers</li>
-
+                            <li>Processors, Graphic Cards and Computer Hardware</li>
+                            <li>Micro-Controllers and Micro-Processors</li>
                         </ul>
                     </li>
                     <li>
@@ -33,7 +33,7 @@ const Intro=()=>{
                             <li>Programming Language: C, C++, JAVA, Python, HTML, CSS, Javascript, Embedded C</li>
                             <li>Softwares: Photoshop, Adobe XD, Lunacy</li>
                             <li>SAAS: Figma, Load Runner Cloud, Jenkins</li>
-                            <li>FrameWork: Selenium, ReactJS(Learning) </li>
+                            <li>FrameWork: Selenium,TestNG,Maven,Cucumber, ReactJS(Learning) </li>
                             <li>In Progress: MERN Stack Development</li>
                         </ul>
                     </li>
@@ -65,7 +65,7 @@ const Intro=()=>{
                            I developed interest for electronics and started 
                            learning programming of microcontrollers and embedded C. 
                            I did various workshops and gained hands on experience on using different ICs and microcontrollers including Arduino, 8051 and others.
-                           In my pre-final year I stated did an internship in UI/UX designing and thus got introduced to web development.</p>
+                           In my pre-final year I stated did an internship in UI/UX designing and thus got introduced to web dev.</p>
                     </li>
                     <li>
                         <h2>Accenture</h2>

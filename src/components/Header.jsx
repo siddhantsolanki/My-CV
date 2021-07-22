@@ -1,8 +1,15 @@
-import './Header.css'
+import './Header.css';
+import icon from'../assets/icon/sidicon.png'
+import './TopNav.css';
+
 const Header =() =>
 {
     return(
-       <div className="container-header">
+       <div className="container-header-top">
+           <div className="icon-container">
+           <img className="top-icon" src={icon}></img>
+           <p className="siddhant">Siddhant Solanki</p>
+            </div>
            <div className="container-header">
                <h1 className="header-container-one">Hello World  
                <li className="li-first">!</li>
@@ -19,7 +26,7 @@ const Header =() =>
                    <li>Tech Enthusiast</li>
                    <li>front-End Developer</li>
                    <li>Aspiring Trader</li>
-                   <li>Looking for a JOB</li>
+                   <li>Looking for a JOB-Switch</li>
                 </ul>
 
               <h2>I welcome You to my</h2> 
